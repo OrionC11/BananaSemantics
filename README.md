@@ -96,6 +96,23 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 
 Be sure to add, commit, and push your work to see the most up-to-date version of your app!
 
+## Links
+
+Deployed Website: https://OrionC11.github.io/BananaSemantics
+
+Github Repository: https://github.com/OrionC11/BananaSemantics
+
+
+## Screenshots: 
+
+Deployed website screenshot 1: (./assets/images/banana1.png)
+
+Deployed website Screenshot 2: (./assets/images/banana2.png)
+
+Code Screenshot 1: (./assets/images/bananacode1.png)
+
+Code Screenshot 2: (./assets/images/bananacode2.png)
+
 ## Grading Requirements
 
 > **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
