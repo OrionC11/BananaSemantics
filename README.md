@@ -105,13 +105,13 @@ Github Repository: https://github.com/OrionC11/BananaSemantics
 
 ## Screenshots: 
 
-Deployed website screenshot 1: (./assets/images/banana1.png)
+![Deployed website screenshot 1: ](./assets/images/banana1.png)
 
-Deployed website Screenshot 2: (./assets/images/banana2.png)
+![Deployed website Screenshot 2: ](./assets/images/banana2.png)
 
-Code Screenshot 1: (./assets/images/bananacode1.png)
+![Code Screenshot 1: ](./assets/images/bananacode1.png)
 
-Code Screenshot 2: (./assets/images/bananacode2.png)
+![Code Screenshot 2: ](./assets/images/bananacode2.png)
 
 ## Grading Requirements
 
